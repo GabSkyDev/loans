@@ -2,8 +2,6 @@
 
 Este projeto implementa um serviço que determina quais modalidades de empréstimo uma pessoa tem acesso, com base em critérios definidos de renda, idade e localização.
 
----
-
 ## Tecnologias utilizadas
 
 - Java 17
@@ -11,13 +9,9 @@ Este projeto implementa um serviço que determina quais modalidades de emprésti
 - Maven
 - Postman (para testes)
 
----
-
 ## Objetivo
 
 Implementar uma API REST que receba os dados do cliente e retorne as modalidades de empréstimo disponíveis, com seus respectivos tipos e taxas de juros.
-
----
 
 ## Exemplo de chamada
 
